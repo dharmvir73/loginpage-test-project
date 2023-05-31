@@ -1,0 +1,11 @@
+#RightCardContainer {
+  background-image: url(../../assets/CardBackground.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+#Logo {
+  background-image: url(../../assets/Logo.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
